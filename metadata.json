@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria - 3D Digital Companion & Persona Studio",
+  "description": "Next-generation 3D interactive AI companion and digital persona platform with customizable 3D avatars, dynamic emotional roleplay, and narrative depth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
